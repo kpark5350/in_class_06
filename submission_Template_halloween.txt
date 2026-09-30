@@ -1,0 +1,8 @@
+Team name: UG-S03(Solo)
+Category: Undergraduate
+
+Team Member Name: Ki Hyun Park
+GitHub Username: @kpark5350
+Primary Contribution:
+HTML, CSS, design, animations, responsive layout,
+accessibility, testing, and documentation
